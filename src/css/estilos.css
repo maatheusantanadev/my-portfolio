@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    background: linear-gradient(to right, #010003 0%, #500c0c 40%, #3d2222 60%, #000000 100%);
+    background: linear-gradient(to right, #010003 0%, #721165 40%, #3c223d 60%, #000000 100%);
 }
 
 body{
@@ -120,12 +120,13 @@ body{
 
 .titulo{
     color: #ffffff;
-    background: linear-gradient(to right, #010003 0%, #935b5b 40%, #3d2222 60%, #000000 100%);
+    background: linear-gradient(to right, #29061e 0%, #e2e2e2 40%, #887878 60%, #29061e 100%);
+    margin-top: 50px;
 }
 
 .container-projetos-front img{
     margin-top: 80px;
-    box-shadow: 2px 2px 50px #ffffff;
+    box-shadow: 2px 2px 20px #ffffff;
     max-width: 800px;
     max-height: 800px;
     width: auto;
@@ -143,19 +144,32 @@ body{
 
 
 
-.informacoes-projeto-front .link-git-front a:hover{
+.informacoes-projeto-gta .link-git-gta a:hover{
     background-color: #ffffff;
     color: #000000;
     border-radius: 50px;
 }
 
+.informacoes-projeto-lasanha .link-git-lasanha a:hover{
+background-color: #ffffff;
+    color: #000000;
+    border-radius: 50px;
+}
+
+.informacoes-projeto-gta,
+.informacoes-projeto-lasanha{
+    margin-top: 13px;
+    margin-bottom: 20px;
+    
+}
+
 video{
-    max-width: 800px;
+    max-width: 420px;
     max-height: 300px;
     width: auto;
     height: auto;
     margin-top: 28px;
-    box-shadow: 2px 2px 40px #ffffff;
+    box-shadow: 2px 2px 20px #ffffff;
 }
 
 .informacoes-projeto-back{
@@ -175,8 +189,8 @@ video{
 }
 
 .java{
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 300px;
+    max-height: 300px;
     width: auto;
     height: auto;
     margin-top: 28px;
@@ -191,3 +205,41 @@ hr{
     border-top: 1px solid #ffffff;
 }
 
+.lasanha,
+.biblioteca {
+    margin-left: 50px;
+ 
+}
+
+.habilidades img{
+    width: 50px;
+    box-shadow: 2px 2px 20px #ffffff;
+    
+}
+
+.c{
+    margin-left: 50px;
+    margin-right: 45px;
+ 
+}
+
+.css{
+    margin-left: 50px;
+    margin-right: 45px;
+   
+}
+
+.habilidades div{
+    margin-bottom: 20px;
+}
+
+.conhecimento{
+    margin-bottom: 40px;
+    color: #ffffff;
+    background: linear-gradient(to right, #29061e 0%, #e2e2e2 40%,  #887878 60%, #29061e 100%);
+    margin-top: 50px;
+}
+
+.py{
+    margin-right: 45px;
+}
