@@ -143,17 +143,12 @@ body{
 }
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a1b595d27a37576fbfb128e2d988cd35be5e3079
 .informacoes-projeto-gta .link-git-gta a:hover{
     background-color: #ffffff;
     color: #000000;
     border-radius: 50px;
 }
 
-<<<<<<< HEAD
 .img_dragons{
     margin-right: 100px;
 }
@@ -167,15 +162,10 @@ body{
 
 .informacoes-projeto-lasanha .link-git-lasanha a:hover{
     background-color: #ffffff;
-=======
-.informacoes-projeto-lasanha .link-git-lasanha a:hover{
-background-color: #ffffff;
->>>>>>> a1b595d27a37576fbfb128e2d988cd35be5e3079
     color: #000000;
     border-radius: 50px;
 }
 
-<<<<<<< HEAD
 
 .informacoes-projeto-dragons .link-git-dragons a:hover{
     background-color: #ffffff;
@@ -187,10 +177,6 @@ background-color: #ffffff;
 .informacoes-projeto-gta,
 .informacoes-projeto-lasanha,
 .informacoes-projeto-dragons{
-=======
-.informacoes-projeto-gta,
-.informacoes-projeto-lasanha{
->>>>>>> a1b595d27a37576fbfb128e2d988cd35be5e3079
     margin-top: 13px;
     margin-bottom: 20px;
     
@@ -239,20 +225,12 @@ hr{
 }
 
 .lasanha,
-<<<<<<< HEAD
 .biblioteca,
 .dragons {
     margin-left: 50px;
 }
 
 
-=======
-.biblioteca {
-    margin-left: 50px;
- 
-}
-
->>>>>>> a1b595d27a37576fbfb128e2d988cd35be5e3079
 .habilidades img{
     width: 50px;
     box-shadow: 2px 2px 20px #ffffff;
@@ -284,9 +262,4 @@ hr{
 
 .py{
     margin-right: 45px;
-<<<<<<< HEAD
 }
-
-=======
-}
->>>>>>> a1b595d27a37576fbfb128e2d988cd35be5e3079
